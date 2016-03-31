@@ -1,0 +1,26 @@
+This is a README file to describe the process and details of preparing DC4CITIES grid.csv data file. This file contains hourly green energy percentage, and CO2 emissions for some days. An entry data in this file is in "DATETIME;MAXENERGY;GREEN%;CO2EMISSIONS" format.
+
+ENERGY DATA DESCRIPTION:
+We have got raw data values for different electricity generation sources for various regions in Italy from [1]. We have extracted green sources: Hydro,Wind,Photovoltaic Measured,Geotermal,Hydro (River), and the only brown source: Thermal. There are data for Pumps Consumption and Photovoltaic Estimated, but we excluded them. The data files from [1] do not have imported electricity from other countries to Italy. They only present electricity generation mix within Italy. Perhaps, we need to get this data as well for a more precise calcuation of green energy precentage.
+Electricity generation unit is in MWh.
+
+[1] Ex-post data of actual generation, URL:http://www.terna.it/default/Home/SISTEMA_ELETTRICO/transparency_report/Generation/trasparency_rep_actual_generation.aspx
+TEXT from the URL:La produzione effettiva delle unità di produzione viene indicata con dettaglio orario e viene pubblicata il giorno successivo a quello di competenza. Le informazioni riportate, per ciascuna zona, sono le seguenti: ...
+
+[2] http://www.terna.it/default/Home/SISTEMA_ELETTRICO/transparency_report/Generation.aspx
+
+
+SCRIPTS DESCRIPTION:
+
+convertToCSV.sh: 
+First, we need to convert energy data from EXCEL format to CSV format in order to analysis data by AWK. This script reads all data files in ./xls folder and creates an equivalent CSV file in ./csv folder. Each file contains energy data for a full day from hour 0 to hour 23.
+
+hourEnergyTypeAggregation.sh:
+This script takes an energy mix generation data filename as the first input. First, it excludes Pumps Consumption and Photovoltaic Estimated data by the first AWK command (the intermediate output file is filter.csv). Then, it aggregates all regions electricity generation values by hour, and energy source (type); the second AWK command does this group-by operation (the intermediate output file is output_hourEnergyType.csv). The last AWK command calculates green percentage and CO2 emmisions for each hour of a day (the intermediate output file is output_greenPCO2.csv). In order to calculate CO2 emissions we used co2coefficient=0.410898038 kgCO2/kWh coefficient. We multiplied brown energy value by 1000 to convert the unit from MWh to kWh, and then multiplied by co2coefficient.
+
+dc4citiesGridFormat.sh:
+This script reads output_greenPCO2.csv file, and prepares the right data format as required by grid.csv file format, e.g. 2014-01-01T00:00:00(DATE,HOUR);450000(max power available in Watts);46(green%);14000000(CO2emissions in KgCO2). The output is appended to gridt.csv file. This is to automate the process of processing a number of days data files and convert them into a single grid.csv with aMonthAnalysis.sh script.
+
+aMonthAnalysis.sh:
+This script reads CSV files from ./csv directory, and pass them one by one to hourEnergyTypeAggregation.sh script to calculate green percentage and CO2 emissions from energy mix generation data of Italian grid. Then, it executes dc4citiesGridFormat.sh script to read the intermediate output_greenPCO2.csvfile and prepare the right grid.csv data format, and append the data to gridt.csv intermediate file. At the end, this script calls a sort command on gridt.csv file to order the data based on date and time order. You can change month variable value that specifies a special directory for the month you are preparing data. The final grid.csv file will be saved into the month directory.
+If you would like to do calculations for only one csv file (a day data energy mix), you can simply pass that file to hourEnergyTypeAggregation.sh, and then run dc4citiesGridFormat.sh.

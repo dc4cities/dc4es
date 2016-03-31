@@ -1,0 +1,971 @@
+2013/09/24,CNOR,Geotermal,607
+2013/09/24,CNOR,Hydro,125
+2013/09/24,CNOR,"Hydro (River)",32
+2013/09/24,CNOR,"Photovoltaic Estimated",0
+2013/09/24,CNOR,"Photovoltaic Measured",0
+2013/09/24,CNOR,Thermal,752
+2013/09/24,CNOR,Wind,22
+2013/09/24,CSUD,Hydro,126
+2013/09/24,CSUD,"Hydro (River)",8
+2013/09/24,CSUD,"Photovoltaic Estimated",0
+2013/09/24,CSUD,"Photovoltaic Measured",0
+2013/09/24,CSUD,"Pumps Consumption",-3
+2013/09/24,CSUD,Thermal,2234
+2013/09/24,CSUD,Wind,151
+2013/09/24,NORD,Hydro,1465
+2013/09/24,NORD,"Hydro (River)",625
+2013/09/24,NORD,Other,0
+2013/09/24,NORD,"Photovoltaic Estimated",0
+2013/09/24,NORD,"Photovoltaic Measured",0
+2013/09/24,NORD,"Pumps Consumption",-2
+2013/09/24,NORD,Thermal,8640
+2013/09/24,NORD,Wind,22
+2013/09/24,SARD,Hydro,49
+2013/09/24,SARD,"Photovoltaic Estimated",0
+2013/09/24,SARD,"Photovoltaic Measured",0
+2013/09/24,SARD,Thermal,1024
+2013/09/24,SARD,Wind,14
+2013/09/24,SICI,Hydro,2
+2013/09/24,SICI,"Photovoltaic Estimated",0
+2013/09/24,SICI,"Photovoltaic Measured",0
+2013/09/24,SICI,"Pumps Consumption",-10
+2013/09/24,SICI,Thermal,1732
+2013/09/24,SICI,Wind,116
+2013/09/24,SUD,Geotermal,2
+2013/09/24,SUD,Hydro,31
+2013/09/24,SUD,"Hydro (River)",32
+2013/09/24,SUD,"Photovoltaic Estimated",0
+2013/09/24,SUD,"Photovoltaic Measured",0
+2013/09/24,SUD,Thermal,4734
+2013/09/24,SUD,Wind,542
+"2013/09/24 01:00:00",CNOR,Geotermal,608
+"2013/09/24 01:00:00",CNOR,Hydro,40
+"2013/09/24 01:00:00",CNOR,"Hydro (River)",34
+"2013/09/24 01:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 01:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 01:00:00",CNOR,Thermal,749
+"2013/09/24 01:00:00",CNOR,Wind,22
+"2013/09/24 01:00:00",CSUD,Hydro,123
+"2013/09/24 01:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 01:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 01:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 01:00:00",CSUD,"Pumps Consumption",-3
+"2013/09/24 01:00:00",CSUD,Thermal,2219
+"2013/09/24 01:00:00",CSUD,Wind,128
+"2013/09/24 01:00:00",NORD,Hydro,1391
+"2013/09/24 01:00:00",NORD,"Hydro (River)",623
+"2013/09/24 01:00:00",NORD,Other,0
+"2013/09/24 01:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 01:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 01:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 01:00:00",NORD,Thermal,7602
+"2013/09/24 01:00:00",NORD,Wind,18
+"2013/09/24 01:00:00",SARD,Hydro,10
+"2013/09/24 01:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 01:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 01:00:00",SARD,"Pumps Consumption",-3
+"2013/09/24 01:00:00",SARD,Thermal,1032
+"2013/09/24 01:00:00",SARD,Wind,12
+"2013/09/24 01:00:00",SICI,Hydro,2
+"2013/09/24 01:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 01:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 01:00:00",SICI,"Pumps Consumption",-149
+"2013/09/24 01:00:00",SICI,Thermal,1711
+"2013/09/24 01:00:00",SICI,Wind,78
+"2013/09/24 01:00:00",SUD,Geotermal,2
+"2013/09/24 01:00:00",SUD,Hydro,31
+"2013/09/24 01:00:00",SUD,"Hydro (River)",29
+"2013/09/24 01:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 01:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 01:00:00",SUD,Thermal,4567
+"2013/09/24 01:00:00",SUD,Wind,486
+"2013/09/24 02:00:00",CNOR,Geotermal,608
+"2013/09/24 02:00:00",CNOR,Hydro,32
+"2013/09/24 02:00:00",CNOR,"Hydro (River)",35
+"2013/09/24 02:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 02:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 02:00:00",CNOR,Thermal,750
+"2013/09/24 02:00:00",CNOR,Wind,22
+"2013/09/24 02:00:00",CSUD,Hydro,122
+"2013/09/24 02:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 02:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 02:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 02:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 02:00:00",CSUD,Thermal,2235
+"2013/09/24 02:00:00",CSUD,Wind,114
+"2013/09/24 02:00:00",NORD,Hydro,1334
+"2013/09/24 02:00:00",NORD,"Hydro (River)",617
+"2013/09/24 02:00:00",NORD,Other,0
+"2013/09/24 02:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 02:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 02:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 02:00:00",NORD,Thermal,7334
+"2013/09/24 02:00:00",NORD,Wind,20
+"2013/09/24 02:00:00",SARD,Hydro,0
+"2013/09/24 02:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 02:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 02:00:00",SARD,"Pumps Consumption",-4
+"2013/09/24 02:00:00",SARD,Thermal,1031
+"2013/09/24 02:00:00",SARD,Wind,12
+"2013/09/24 02:00:00",SICI,Hydro,2
+"2013/09/24 02:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 02:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 02:00:00",SICI,"Pumps Consumption",-148
+"2013/09/24 02:00:00",SICI,Thermal,1763
+"2013/09/24 02:00:00",SICI,Wind,60
+"2013/09/24 02:00:00",SUD,Geotermal,2
+"2013/09/24 02:00:00",SUD,Hydro,31
+"2013/09/24 02:00:00",SUD,"Hydro (River)",26
+"2013/09/24 02:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 02:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 02:00:00",SUD,Thermal,4458
+"2013/09/24 02:00:00",SUD,Wind,467
+"2013/09/24 03:00:00",CNOR,Geotermal,608
+"2013/09/24 03:00:00",CNOR,Hydro,31
+"2013/09/24 03:00:00",CNOR,"Hydro (River)",37
+"2013/09/24 03:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 03:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 03:00:00",CNOR,Thermal,749
+"2013/09/24 03:00:00",CNOR,Wind,26
+"2013/09/24 03:00:00",CSUD,Hydro,116
+"2013/09/24 03:00:00",CSUD,"Hydro (River)",10
+"2013/09/24 03:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 03:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 03:00:00",CSUD,"Pumps Consumption",-3
+"2013/09/24 03:00:00",CSUD,Thermal,2210
+"2013/09/24 03:00:00",CSUD,Wind,102
+"2013/09/24 03:00:00",NORD,Hydro,1334
+"2013/09/24 03:00:00",NORD,"Hydro (River)",614
+"2013/09/24 03:00:00",NORD,Other,0
+"2013/09/24 03:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 03:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 03:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 03:00:00",NORD,Thermal,7332
+"2013/09/24 03:00:00",NORD,Wind,29
+"2013/09/24 03:00:00",SARD,Hydro,0
+"2013/09/24 03:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 03:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 03:00:00",SARD,"Pumps Consumption",-4
+"2013/09/24 03:00:00",SARD,Thermal,1029
+"2013/09/24 03:00:00",SARD,Wind,14
+"2013/09/24 03:00:00",SICI,Hydro,2
+"2013/09/24 03:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 03:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 03:00:00",SICI,"Pumps Consumption",-148
+"2013/09/24 03:00:00",SICI,Thermal,1718
+"2013/09/24 03:00:00",SICI,Wind,67
+"2013/09/24 03:00:00",SUD,Geotermal,2
+"2013/09/24 03:00:00",SUD,Hydro,31
+"2013/09/24 03:00:00",SUD,"Hydro (River)",25
+"2013/09/24 03:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 03:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 03:00:00",SUD,Thermal,4211
+"2013/09/24 03:00:00",SUD,Wind,503
+"2013/09/24 04:00:00",CNOR,Geotermal,608
+"2013/09/24 04:00:00",CNOR,Hydro,31
+"2013/09/24 04:00:00",CNOR,"Hydro (River)",36
+"2013/09/24 04:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 04:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 04:00:00",CNOR,Thermal,747
+"2013/09/24 04:00:00",CNOR,Wind,30
+"2013/09/24 04:00:00",CSUD,Hydro,139
+"2013/09/24 04:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 04:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 04:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 04:00:00",CSUD,"Pumps Consumption",-3
+"2013/09/24 04:00:00",CSUD,Thermal,2236
+"2013/09/24 04:00:00",CSUD,Wind,106
+"2013/09/24 04:00:00",NORD,Hydro,1339
+"2013/09/24 04:00:00",NORD,"Hydro (River)",611
+"2013/09/24 04:00:00",NORD,Other,0
+"2013/09/24 04:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 04:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 04:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 04:00:00",NORD,Thermal,7512
+"2013/09/24 04:00:00",NORD,Wind,42
+"2013/09/24 04:00:00",SARD,Hydro,0
+"2013/09/24 04:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 04:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 04:00:00",SARD,"Pumps Consumption",-4
+"2013/09/24 04:00:00",SARD,Thermal,1029
+"2013/09/24 04:00:00",SARD,Wind,14
+"2013/09/24 04:00:00",SICI,Hydro,1
+"2013/09/24 04:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 04:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 04:00:00",SICI,"Pumps Consumption",-148
+"2013/09/24 04:00:00",SICI,Thermal,1706
+"2013/09/24 04:00:00",SICI,Wind,89
+"2013/09/24 04:00:00",SUD,Geotermal,2
+"2013/09/24 04:00:00",SUD,Hydro,31
+"2013/09/24 04:00:00",SUD,"Hydro (River)",25
+"2013/09/24 04:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 04:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 04:00:00",SUD,Thermal,4159
+"2013/09/24 04:00:00",SUD,Wind,543
+"2013/09/24 05:00:00",CNOR,Geotermal,608
+"2013/09/24 05:00:00",CNOR,Hydro,35
+"2013/09/24 05:00:00",CNOR,"Hydro (River)",34
+"2013/09/24 05:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 05:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 05:00:00",CNOR,Thermal,755
+"2013/09/24 05:00:00",CNOR,Wind,26
+"2013/09/24 05:00:00",CSUD,Hydro,146
+"2013/09/24 05:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 05:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 05:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 05:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 05:00:00",CSUD,Thermal,2253
+"2013/09/24 05:00:00",CSUD,Wind,111
+"2013/09/24 05:00:00",NORD,Hydro,1380
+"2013/09/24 05:00:00",NORD,"Hydro (River)",607
+"2013/09/24 05:00:00",NORD,Other,0
+"2013/09/24 05:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 05:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 05:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 05:00:00",NORD,Thermal,8423
+"2013/09/24 05:00:00",NORD,Wind,50
+"2013/09/24 05:00:00",SARD,Hydro,0
+"2013/09/24 05:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 05:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 05:00:00",SARD,"Pumps Consumption",-4
+"2013/09/24 05:00:00",SARD,Thermal,1034
+"2013/09/24 05:00:00",SARD,Wind,11
+"2013/09/24 05:00:00",SICI,Hydro,1
+"2013/09/24 05:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 05:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 05:00:00",SICI,"Pumps Consumption",-147
+"2013/09/24 05:00:00",SICI,Thermal,1776
+"2013/09/24 05:00:00",SICI,Wind,98
+"2013/09/24 05:00:00",SUD,Geotermal,2
+"2013/09/24 05:00:00",SUD,Hydro,31
+"2013/09/24 05:00:00",SUD,"Hydro (River)",28
+"2013/09/24 05:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 05:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 05:00:00",SUD,Thermal,4498
+"2013/09/24 05:00:00",SUD,Wind,556
+"2013/09/24 06:00:00",CNOR,Geotermal,608
+"2013/09/24 06:00:00",CNOR,Hydro,133
+"2013/09/24 06:00:00",CNOR,"Hydro (River)",33
+"2013/09/24 06:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 06:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 06:00:00",CNOR,Thermal,913
+"2013/09/24 06:00:00",CNOR,Wind,25
+"2013/09/24 06:00:00",CSUD,Hydro,149
+"2013/09/24 06:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 06:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 06:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 06:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 06:00:00",CSUD,Thermal,2263
+"2013/09/24 06:00:00",CSUD,Wind,133
+"2013/09/24 06:00:00",NORD,Hydro,1826
+"2013/09/24 06:00:00",NORD,"Hydro (River)",616
+"2013/09/24 06:00:00",NORD,Other,0
+"2013/09/24 06:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 06:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 06:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 06:00:00",NORD,Thermal,10866
+"2013/09/24 06:00:00",NORD,Wind,51
+"2013/09/24 06:00:00",SARD,Hydro,0
+"2013/09/24 06:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 06:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 06:00:00",SARD,"Pumps Consumption",-4
+"2013/09/24 06:00:00",SARD,Thermal,1080
+"2013/09/24 06:00:00",SARD,Wind,11
+"2013/09/24 06:00:00",SICI,Hydro,1
+"2013/09/24 06:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 06:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 06:00:00",SICI,"Pumps Consumption",-48
+"2013/09/24 06:00:00",SICI,Thermal,1831
+"2013/09/24 06:00:00",SICI,Wind,81
+"2013/09/24 06:00:00",SUD,Geotermal,2
+"2013/09/24 06:00:00",SUD,Hydro,43
+"2013/09/24 06:00:00",SUD,"Hydro (River)",26
+"2013/09/24 06:00:00",SUD,"Photovoltaic Estimated",2
+"2013/09/24 06:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 06:00:00",SUD,Thermal,5078
+"2013/09/24 06:00:00",SUD,Wind,606
+"2013/09/24 07:00:00",CNOR,Geotermal,608
+"2013/09/24 07:00:00",CNOR,Hydro,204
+"2013/09/24 07:00:00",CNOR,"Hydro (River)",33
+"2013/09/24 07:00:00",CNOR,"Photovoltaic Estimated",59
+"2013/09/24 07:00:00",CNOR,"Photovoltaic Measured",1
+"2013/09/24 07:00:00",CNOR,Thermal,1025
+"2013/09/24 07:00:00",CNOR,Wind,21
+"2013/09/24 07:00:00",CSUD,Hydro,186
+"2013/09/24 07:00:00",CSUD,"Hydro (River)",8
+"2013/09/24 07:00:00",CSUD,"Photovoltaic Estimated",80
+"2013/09/24 07:00:00",CSUD,"Photovoltaic Measured",6
+"2013/09/24 07:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 07:00:00",CSUD,Thermal,2355
+"2013/09/24 07:00:00",CSUD,Wind,100
+"2013/09/24 07:00:00",NORD,Hydro,2647
+"2013/09/24 07:00:00",NORD,"Hydro (River)",683
+"2013/09/24 07:00:00",NORD,Other,0
+"2013/09/24 07:00:00",NORD,"Photovoltaic Estimated",102
+"2013/09/24 07:00:00",NORD,"Photovoltaic Measured",6
+"2013/09/24 07:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 07:00:00",NORD,Thermal,12056
+"2013/09/24 07:00:00",NORD,Wind,47
+"2013/09/24 07:00:00",SARD,Hydro,28
+"2013/09/24 07:00:00",SARD,"Photovoltaic Estimated",6
+"2013/09/24 07:00:00",SARD,"Photovoltaic Measured",1
+"2013/09/24 07:00:00",SARD,"Pumps Consumption",-1
+"2013/09/24 07:00:00",SARD,Thermal,1117
+"2013/09/24 07:00:00",SARD,Wind,12
+"2013/09/24 07:00:00",SICI,Hydro,1
+"2013/09/24 07:00:00",SICI,"Photovoltaic Estimated",64
+"2013/09/24 07:00:00",SICI,"Photovoltaic Measured",3
+"2013/09/24 07:00:00",SICI,"Pumps Consumption",0
+"2013/09/24 07:00:00",SICI,Thermal,2010
+"2013/09/24 07:00:00",SICI,Wind,50
+"2013/09/24 07:00:00",SUD,Geotermal,2
+"2013/09/24 07:00:00",SUD,Hydro,98
+"2013/09/24 07:00:00",SUD,"Hydro (River)",28
+"2013/09/24 07:00:00",SUD,"Photovoltaic Estimated",243
+"2013/09/24 07:00:00",SUD,"Photovoltaic Measured",14
+"2013/09/24 07:00:00",SUD,Thermal,5423
+"2013/09/24 07:00:00",SUD,Wind,532
+"2013/09/24 08:00:00",CNOR,Geotermal,607
+"2013/09/24 08:00:00",CNOR,Hydro,258
+"2013/09/24 08:00:00",CNOR,"Hydro (River)",32
+"2013/09/24 08:00:00",CNOR,"Photovoltaic Estimated",389
+"2013/09/24 08:00:00",CNOR,"Photovoltaic Measured",3
+"2013/09/24 08:00:00",CNOR,Thermal,1080
+"2013/09/24 08:00:00",CNOR,Wind,16
+"2013/09/24 08:00:00",CSUD,Hydro,229
+"2013/09/24 08:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 08:00:00",CSUD,"Photovoltaic Estimated",504
+"2013/09/24 08:00:00",CSUD,"Photovoltaic Measured",48
+"2013/09/24 08:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 08:00:00",CSUD,Thermal,2510
+"2013/09/24 08:00:00",CSUD,Wind,91
+"2013/09/24 08:00:00",NORD,Hydro,3872
+"2013/09/24 08:00:00",NORD,"Hydro (River)",747
+"2013/09/24 08:00:00",NORD,Other,0
+"2013/09/24 08:00:00",NORD,"Photovoltaic Estimated",954
+"2013/09/24 08:00:00",NORD,"Photovoltaic Measured",46
+"2013/09/24 08:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 08:00:00",NORD,Thermal,12134
+"2013/09/24 08:00:00",NORD,Wind,44
+"2013/09/24 08:00:00",SARD,Hydro,73
+"2013/09/24 08:00:00",SARD,"Photovoltaic Estimated",84
+"2013/09/24 08:00:00",SARD,"Photovoltaic Measured",13
+"2013/09/24 08:00:00",SARD,Thermal,1086
+"2013/09/24 08:00:00",SARD,Wind,10
+"2013/09/24 08:00:00",SICI,Hydro,2
+"2013/09/24 08:00:00",SICI,"Photovoltaic Estimated",349
+"2013/09/24 08:00:00",SICI,"Photovoltaic Measured",13
+"2013/09/24 08:00:00",SICI,"Pumps Consumption",0
+"2013/09/24 08:00:00",SICI,Thermal,2002
+"2013/09/24 08:00:00",SICI,Wind,31
+"2013/09/24 08:00:00",SUD,Geotermal,2
+"2013/09/24 08:00:00",SUD,Hydro,98
+"2013/09/24 08:00:00",SUD,"Hydro (River)",33
+"2013/09/24 08:00:00",SUD,"Photovoltaic Estimated",889
+"2013/09/24 08:00:00",SUD,"Photovoltaic Measured",53
+"2013/09/24 08:00:00",SUD,Thermal,5480
+"2013/09/24 08:00:00",SUD,Wind,340
+"2013/09/24 09:00:00",CNOR,Geotermal,596
+"2013/09/24 09:00:00",CNOR,Hydro,295
+"2013/09/24 09:00:00",CNOR,"Hydro (River)",35
+"2013/09/24 09:00:00",CNOR,"Photovoltaic Estimated",755
+"2013/09/24 09:00:00",CNOR,"Photovoltaic Measured",5
+"2013/09/24 09:00:00",CNOR,Thermal,1064
+"2013/09/24 09:00:00",CNOR,Wind,14
+"2013/09/24 09:00:00",CSUD,Hydro,233
+"2013/09/24 09:00:00",CSUD,"Hydro (River)",10
+"2013/09/24 09:00:00",CSUD,"Photovoltaic Estimated",958
+"2013/09/24 09:00:00",CSUD,"Photovoltaic Measured",95
+"2013/09/24 09:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 09:00:00",CSUD,Thermal,2412
+"2013/09/24 09:00:00",CSUD,Wind,90
+"2013/09/24 09:00:00",NORD,Hydro,3752
+"2013/09/24 09:00:00",NORD,"Hydro (River)",759
+"2013/09/24 09:00:00",NORD,Other,0
+"2013/09/24 09:00:00",NORD,"Photovoltaic Estimated",2207
+"2013/09/24 09:00:00",NORD,"Photovoltaic Measured",97
+"2013/09/24 09:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 09:00:00",NORD,Thermal,11861
+"2013/09/24 09:00:00",NORD,Wind,37
+"2013/09/24 09:00:00",SARD,Hydro,109
+"2013/09/24 09:00:00",SARD,"Photovoltaic Estimated",190
+"2013/09/24 09:00:00",SARD,"Photovoltaic Measured",29
+"2013/09/24 09:00:00",SARD,Thermal,1078
+"2013/09/24 09:00:00",SARD,Wind,9
+"2013/09/24 09:00:00",SICI,Hydro,2
+"2013/09/24 09:00:00",SICI,"Photovoltaic Estimated",562
+"2013/09/24 09:00:00",SICI,"Photovoltaic Measured",19
+"2013/09/24 09:00:00",SICI,"Pumps Consumption",0
+"2013/09/24 09:00:00",SICI,Thermal,1913
+"2013/09/24 09:00:00",SICI,Wind,44
+"2013/09/24 09:00:00",SUD,Geotermal,2
+"2013/09/24 09:00:00",SUD,Hydro,114
+"2013/09/24 09:00:00",SUD,"Hydro (River)",36
+"2013/09/24 09:00:00",SUD,"Photovoltaic Estimated",1462
+"2013/09/24 09:00:00",SUD,"Photovoltaic Measured",90
+"2013/09/24 09:00:00",SUD,Thermal,5091
+"2013/09/24 09:00:00",SUD,Wind,292
+"2013/09/24 10:00:00",CNOR,Geotermal,596
+"2013/09/24 10:00:00",CNOR,Hydro,214
+"2013/09/24 10:00:00",CNOR,"Hydro (River)",37
+"2013/09/24 10:00:00",CNOR,"Photovoltaic Estimated",1056
+"2013/09/24 10:00:00",CNOR,"Photovoltaic Measured",7
+"2013/09/24 10:00:00",CNOR,Thermal,1044
+"2013/09/24 10:00:00",CNOR,Wind,9
+"2013/09/24 10:00:00",CSUD,Hydro,219
+"2013/09/24 10:00:00",CSUD,"Hydro (River)",12
+"2013/09/24 10:00:00",CSUD,"Photovoltaic Estimated",1254
+"2013/09/24 10:00:00",CSUD,"Photovoltaic Measured",115
+"2013/09/24 10:00:00",CSUD,"Pumps Consumption",-3
+"2013/09/24 10:00:00",CSUD,Thermal,2314
+"2013/09/24 10:00:00",CSUD,Wind,87
+"2013/09/24 10:00:00",NORD,Hydro,2937
+"2013/09/24 10:00:00",NORD,"Hydro (River)",711
+"2013/09/24 10:00:00",NORD,Other,0
+"2013/09/24 10:00:00",NORD,"Photovoltaic Estimated",3294
+"2013/09/24 10:00:00",NORD,"Photovoltaic Measured",140
+"2013/09/24 10:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 10:00:00",NORD,Thermal,11226
+"2013/09/24 10:00:00",NORD,Wind,29
+"2013/09/24 10:00:00",SARD,Hydro,99
+"2013/09/24 10:00:00",SARD,"Photovoltaic Estimated",280
+"2013/09/24 10:00:00",SARD,"Photovoltaic Measured",41
+"2013/09/24 10:00:00",SARD,Thermal,1045
+"2013/09/24 10:00:00",SARD,Wind,8
+"2013/09/24 10:00:00",SICI,Hydro,2
+"2013/09/24 10:00:00",SICI,"Photovoltaic Estimated",667
+"2013/09/24 10:00:00",SICI,"Photovoltaic Measured",21
+"2013/09/24 10:00:00",SICI,"Pumps Consumption",-1
+"2013/09/24 10:00:00",SICI,Thermal,1844
+"2013/09/24 10:00:00",SICI,Wind,51
+"2013/09/24 10:00:00",SUD,Geotermal,2
+"2013/09/24 10:00:00",SUD,Hydro,114
+"2013/09/24 10:00:00",SUD,"Hydro (River)",34
+"2013/09/24 10:00:00",SUD,"Photovoltaic Estimated",1769
+"2013/09/24 10:00:00",SUD,"Photovoltaic Measured",110
+"2013/09/24 10:00:00",SUD,Thermal,4602
+"2013/09/24 10:00:00",SUD,Wind,283
+"2013/09/24 11:00:00",CNOR,Geotermal,595
+"2013/09/24 11:00:00",CNOR,Hydro,116
+"2013/09/24 11:00:00",CNOR,"Hydro (River)",36
+"2013/09/24 11:00:00",CNOR,"Photovoltaic Estimated",1228
+"2013/09/24 11:00:00",CNOR,"Photovoltaic Measured",8
+"2013/09/24 11:00:00",CNOR,Thermal,1036
+"2013/09/24 11:00:00",CNOR,Wind,10
+"2013/09/24 11:00:00",CSUD,Hydro,159
+"2013/09/24 11:00:00",CSUD,"Hydro (River)",12
+"2013/09/24 11:00:00",CSUD,"Photovoltaic Estimated",1409
+"2013/09/24 11:00:00",CSUD,"Photovoltaic Measured",120
+"2013/09/24 11:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 11:00:00",CSUD,Thermal,2299
+"2013/09/24 11:00:00",CSUD,Wind,83
+"2013/09/24 11:00:00",NORD,Hydro,2704
+"2013/09/24 11:00:00",NORD,"Hydro (River)",660
+"2013/09/24 11:00:00",NORD,Other,0
+"2013/09/24 11:00:00",NORD,"Photovoltaic Estimated",4011
+"2013/09/24 11:00:00",NORD,"Photovoltaic Measured",167
+"2013/09/24 11:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 11:00:00",NORD,Thermal,11535
+"2013/09/24 11:00:00",NORD,Wind,26
+"2013/09/24 11:00:00",SARD,Hydro,99
+"2013/09/24 11:00:00",SARD,"Photovoltaic Estimated",331
+"2013/09/24 11:00:00",SARD,"Photovoltaic Measured",49
+"2013/09/24 11:00:00",SARD,Thermal,998
+"2013/09/24 11:00:00",SARD,Wind,12
+"2013/09/24 11:00:00",SICI,Hydro,2
+"2013/09/24 11:00:00",SICI,"Photovoltaic Estimated",695
+"2013/09/24 11:00:00",SICI,"Photovoltaic Measured",22
+"2013/09/24 11:00:00",SICI,"Pumps Consumption",-147
+"2013/09/24 11:00:00",SICI,Thermal,1831
+"2013/09/24 11:00:00",SICI,Wind,53
+"2013/09/24 11:00:00",SUD,Geotermal,1
+"2013/09/24 11:00:00",SUD,Hydro,123
+"2013/09/24 11:00:00",SUD,"Hydro (River)",31
+"2013/09/24 11:00:00",SUD,"Photovoltaic Estimated",2003
+"2013/09/24 11:00:00",SUD,"Photovoltaic Measured",130
+"2013/09/24 11:00:00",SUD,Thermal,4310
+"2013/09/24 11:00:00",SUD,Wind,266
+"2013/09/24 12:00:00",CNOR,Geotermal,595
+"2013/09/24 12:00:00",CNOR,Hydro,86
+"2013/09/24 12:00:00",CNOR,"Hydro (River)",31
+"2013/09/24 12:00:00",CNOR,"Photovoltaic Estimated",1310
+"2013/09/24 12:00:00",CNOR,"Photovoltaic Measured",8
+"2013/09/24 12:00:00",CNOR,Thermal,1010
+"2013/09/24 12:00:00",CNOR,Wind,13
+"2013/09/24 12:00:00",CSUD,Hydro,228
+"2013/09/24 12:00:00",CSUD,"Hydro (River)",11
+"2013/09/24 12:00:00",CSUD,"Photovoltaic Estimated",1523
+"2013/09/24 12:00:00",CSUD,"Photovoltaic Measured",122
+"2013/09/24 12:00:00",CSUD,"Pumps Consumption",0
+"2013/09/24 12:00:00",CSUD,Thermal,2277
+"2013/09/24 12:00:00",CSUD,Wind,78
+"2013/09/24 12:00:00",NORD,Hydro,2005
+"2013/09/24 12:00:00",NORD,"Hydro (River)",657
+"2013/09/24 12:00:00",NORD,Other,0
+"2013/09/24 12:00:00",NORD,"Photovoltaic Estimated",4378
+"2013/09/24 12:00:00",NORD,"Photovoltaic Measured",182
+"2013/09/24 12:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 12:00:00",NORD,Thermal,10498
+"2013/09/24 12:00:00",NORD,Wind,25
+"2013/09/24 12:00:00",SARD,Hydro,98
+"2013/09/24 12:00:00",SARD,"Photovoltaic Estimated",362
+"2013/09/24 12:00:00",SARD,"Photovoltaic Measured",54
+"2013/09/24 12:00:00",SARD,Thermal,1004
+"2013/09/24 12:00:00",SARD,Wind,18
+"2013/09/24 12:00:00",SICI,Hydro,2
+"2013/09/24 12:00:00",SICI,"Photovoltaic Estimated",762
+"2013/09/24 12:00:00",SICI,"Photovoltaic Measured",19
+"2013/09/24 12:00:00",SICI,"Pumps Consumption",-148
+"2013/09/24 12:00:00",SICI,Thermal,1867
+"2013/09/24 12:00:00",SICI,Wind,57
+"2013/09/24 12:00:00",SUD,Geotermal,2
+"2013/09/24 12:00:00",SUD,Hydro,123
+"2013/09/24 12:00:00",SUD,"Hydro (River)",27
+"2013/09/24 12:00:00",SUD,"Photovoltaic Estimated",2095
+"2013/09/24 12:00:00",SUD,"Photovoltaic Measured",137
+"2013/09/24 12:00:00",SUD,Thermal,4013
+"2013/09/24 12:00:00",SUD,Wind,299
+"2013/09/24 13:00:00",CNOR,Geotermal,594
+"2013/09/24 13:00:00",CNOR,Hydro,84
+"2013/09/24 13:00:00",CNOR,"Hydro (River)",32
+"2013/09/24 13:00:00",CNOR,"Photovoltaic Estimated",1325
+"2013/09/24 13:00:00",CNOR,"Photovoltaic Measured",8
+"2013/09/24 13:00:00",CNOR,Thermal,979
+"2013/09/24 13:00:00",CNOR,Wind,19
+"2013/09/24 13:00:00",CSUD,Hydro,263
+"2013/09/24 13:00:00",CSUD,"Hydro (River)",11
+"2013/09/24 13:00:00",CSUD,"Photovoltaic Estimated",1528
+"2013/09/24 13:00:00",CSUD,"Photovoltaic Measured",122
+"2013/09/24 13:00:00",CSUD,"Pumps Consumption",0
+"2013/09/24 13:00:00",CSUD,Thermal,2229
+"2013/09/24 13:00:00",CSUD,Wind,88
+"2013/09/24 13:00:00",NORD,Hydro,2031
+"2013/09/24 13:00:00",NORD,"Hydro (River)",644
+"2013/09/24 13:00:00",NORD,Other,0
+"2013/09/24 13:00:00",NORD,"Photovoltaic Estimated",4387
+"2013/09/24 13:00:00",NORD,"Photovoltaic Measured",183
+"2013/09/24 13:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 13:00:00",NORD,Thermal,9976
+"2013/09/24 13:00:00",NORD,Wind,38
+"2013/09/24 13:00:00",SARD,Hydro,82
+"2013/09/24 13:00:00",SARD,"Photovoltaic Estimated",373
+"2013/09/24 13:00:00",SARD,"Photovoltaic Measured",55
+"2013/09/24 13:00:00",SARD,Thermal,990
+"2013/09/24 13:00:00",SARD,Wind,31
+"2013/09/24 13:00:00",SICI,Hydro,2
+"2013/09/24 13:00:00",SICI,"Photovoltaic Estimated",757
+"2013/09/24 13:00:00",SICI,"Photovoltaic Measured",23
+"2013/09/24 13:00:00",SICI,"Pumps Consumption",-147
+"2013/09/24 13:00:00",SICI,Thermal,1831
+"2013/09/24 13:00:00",SICI,Wind,67
+"2013/09/24 13:00:00",SUD,Geotermal,2
+"2013/09/24 13:00:00",SUD,Hydro,123
+"2013/09/24 13:00:00",SUD,"Hydro (River)",28
+"2013/09/24 13:00:00",SUD,"Photovoltaic Estimated",2112
+"2013/09/24 13:00:00",SUD,"Photovoltaic Measured",136
+"2013/09/24 13:00:00",SUD,Thermal,4061
+"2013/09/24 13:00:00",SUD,Wind,344
+"2013/09/24 14:00:00",CNOR,Geotermal,593
+"2013/09/24 14:00:00",CNOR,Hydro,63
+"2013/09/24 14:00:00",CNOR,"Hydro (River)",34
+"2013/09/24 14:00:00",CNOR,"Photovoltaic Estimated",1248
+"2013/09/24 14:00:00",CNOR,"Photovoltaic Measured",8
+"2013/09/24 14:00:00",CNOR,Thermal,1004
+"2013/09/24 14:00:00",CNOR,Wind,23
+"2013/09/24 14:00:00",CSUD,Hydro,387
+"2013/09/24 14:00:00",CSUD,"Hydro (River)",11
+"2013/09/24 14:00:00",CSUD,"Photovoltaic Estimated",1439
+"2013/09/24 14:00:00",CSUD,"Photovoltaic Measured",120
+"2013/09/24 14:00:00",CSUD,"Pumps Consumption",0
+"2013/09/24 14:00:00",CSUD,Thermal,2279
+"2013/09/24 14:00:00",CSUD,Wind,114
+"2013/09/24 14:00:00",NORD,Hydro,1890
+"2013/09/24 14:00:00",NORD,"Hydro (River)",643
+"2013/09/24 14:00:00",NORD,Other,0
+"2013/09/24 14:00:00",NORD,"Photovoltaic Estimated",4098
+"2013/09/24 14:00:00",NORD,"Photovoltaic Measured",172
+"2013/09/24 14:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 14:00:00",NORD,Thermal,10748
+"2013/09/24 14:00:00",NORD,Wind,45
+"2013/09/24 14:00:00",SARD,Hydro,0
+"2013/09/24 14:00:00",SARD,"Photovoltaic Estimated",354
+"2013/09/24 14:00:00",SARD,"Photovoltaic Measured",55
+"2013/09/24 14:00:00",SARD,"Pumps Consumption",-4
+"2013/09/24 14:00:00",SARD,Thermal,1054
+"2013/09/24 14:00:00",SARD,Wind,54
+"2013/09/24 14:00:00",SICI,Hydro,2
+"2013/09/24 14:00:00",SICI,"Photovoltaic Estimated",736
+"2013/09/24 14:00:00",SICI,"Photovoltaic Measured",22
+"2013/09/24 14:00:00",SICI,"Pumps Consumption",-146
+"2013/09/24 14:00:00",SICI,Thermal,1778
+"2013/09/24 14:00:00",SICI,Wind,100
+"2013/09/24 14:00:00",SUD,Geotermal,2
+"2013/09/24 14:00:00",SUD,Hydro,123
+"2013/09/24 14:00:00",SUD,"Hydro (River)",27
+"2013/09/24 14:00:00",SUD,"Photovoltaic Estimated",1960
+"2013/09/24 14:00:00",SUD,"Photovoltaic Measured",125
+"2013/09/24 14:00:00",SUD,Thermal,4147
+"2013/09/24 14:00:00",SUD,Wind,354
+"2013/09/24 15:00:00",CNOR,Geotermal,594
+"2013/09/24 15:00:00",CNOR,Hydro,61
+"2013/09/24 15:00:00",CNOR,"Hydro (River)",34
+"2013/09/24 15:00:00",CNOR,"Photovoltaic Estimated",1060
+"2013/09/24 15:00:00",CNOR,"Photovoltaic Measured",6
+"2013/09/24 15:00:00",CNOR,Thermal,1029
+"2013/09/24 15:00:00",CNOR,Wind,28
+"2013/09/24 15:00:00",CSUD,Hydro,127
+"2013/09/24 15:00:00",CSUD,"Hydro (River)",10
+"2013/09/24 15:00:00",CSUD,"Photovoltaic Estimated",1257
+"2013/09/24 15:00:00",CSUD,"Photovoltaic Measured",114
+"2013/09/24 15:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 15:00:00",CSUD,Thermal,2622
+"2013/09/24 15:00:00",CSUD,Wind,135
+"2013/09/24 15:00:00",NORD,Hydro,1971
+"2013/09/24 15:00:00",NORD,"Hydro (River)",647
+"2013/09/24 15:00:00",NORD,Other,0
+"2013/09/24 15:00:00",NORD,"Photovoltaic Estimated",3495
+"2013/09/24 15:00:00",NORD,"Photovoltaic Measured",146
+"2013/09/24 15:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 15:00:00",NORD,Thermal,11832
+"2013/09/24 15:00:00",NORD,Wind,49
+"2013/09/24 15:00:00",SARD,Hydro,0
+"2013/09/24 15:00:00",SARD,"Photovoltaic Estimated",310
+"2013/09/24 15:00:00",SARD,"Photovoltaic Measured",49
+"2013/09/24 15:00:00",SARD,"Pumps Consumption",-4
+"2013/09/24 15:00:00",SARD,Thermal,1063
+"2013/09/24 15:00:00",SARD,Wind,73
+"2013/09/24 15:00:00",SICI,Hydro,2
+"2013/09/24 15:00:00",SICI,"Photovoltaic Estimated",616
+"2013/09/24 15:00:00",SICI,"Photovoltaic Measured",20
+"2013/09/24 15:00:00",SICI,"Pumps Consumption",0
+"2013/09/24 15:00:00",SICI,Thermal,1700
+"2013/09/24 15:00:00",SICI,Wind,123
+"2013/09/24 15:00:00",SUD,Geotermal,2
+"2013/09/24 15:00:00",SUD,Hydro,107
+"2013/09/24 15:00:00",SUD,"Hydro (River)",29
+"2013/09/24 15:00:00",SUD,"Photovoltaic Estimated",1635
+"2013/09/24 15:00:00",SUD,"Photovoltaic Measured",103
+"2013/09/24 15:00:00",SUD,Thermal,4228
+"2013/09/24 15:00:00",SUD,Wind,369
+"2013/09/24 16:00:00",CNOR,Geotermal,594
+"2013/09/24 16:00:00",CNOR,Hydro,215
+"2013/09/24 16:00:00",CNOR,"Hydro (River)",36
+"2013/09/24 16:00:00",CNOR,"Photovoltaic Estimated",788
+"2013/09/24 16:00:00",CNOR,"Photovoltaic Measured",4
+"2013/09/24 16:00:00",CNOR,Thermal,1051
+"2013/09/24 16:00:00",CNOR,Wind,31
+"2013/09/24 16:00:00",CSUD,Hydro,151
+"2013/09/24 16:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 16:00:00",CSUD,"Photovoltaic Estimated",951
+"2013/09/24 16:00:00",CSUD,"Photovoltaic Measured",99
+"2013/09/24 16:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 16:00:00",CSUD,Thermal,3317
+"2013/09/24 16:00:00",CSUD,Wind,173
+"2013/09/24 16:00:00",NORD,Hydro,2449
+"2013/09/24 16:00:00",NORD,"Hydro (River)",666
+"2013/09/24 16:00:00",NORD,Other,0
+"2013/09/24 16:00:00",NORD,"Photovoltaic Estimated",2562
+"2013/09/24 16:00:00",NORD,"Photovoltaic Measured",106
+"2013/09/24 16:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 16:00:00",NORD,Thermal,12212
+"2013/09/24 16:00:00",NORD,Wind,50
+"2013/09/24 16:00:00",SARD,Hydro,0
+"2013/09/24 16:00:00",SARD,"Photovoltaic Estimated",247
+"2013/09/24 16:00:00",SARD,"Photovoltaic Measured",38
+"2013/09/24 16:00:00",SARD,"Pumps Consumption",-4
+"2013/09/24 16:00:00",SARD,Thermal,1050
+"2013/09/24 16:00:00",SARD,Wind,92
+"2013/09/24 16:00:00",SICI,Hydro,6
+"2013/09/24 16:00:00",SICI,"Photovoltaic Estimated",468
+"2013/09/24 16:00:00",SICI,"Photovoltaic Measured",15
+"2013/09/24 16:00:00",SICI,"Pumps Consumption",0
+"2013/09/24 16:00:00",SICI,Thermal,1723
+"2013/09/24 16:00:00",SICI,Wind,126
+"2013/09/24 16:00:00",SUD,Geotermal,2
+"2013/09/24 16:00:00",SUD,Hydro,108
+"2013/09/24 16:00:00",SUD,"Hydro (River)",30
+"2013/09/24 16:00:00",SUD,"Photovoltaic Estimated",1153
+"2013/09/24 16:00:00",SUD,"Photovoltaic Measured",71
+"2013/09/24 16:00:00",SUD,Thermal,4540
+"2013/09/24 16:00:00",SUD,Wind,412
+"2013/09/24 17:00:00",CNOR,Geotermal,598
+"2013/09/24 17:00:00",CNOR,Hydro,321
+"2013/09/24 17:00:00",CNOR,"Hydro (River)",34
+"2013/09/24 17:00:00",CNOR,"Photovoltaic Estimated",408
+"2013/09/24 17:00:00",CNOR,"Photovoltaic Measured",2
+"2013/09/24 17:00:00",CNOR,Thermal,1040
+"2013/09/24 17:00:00",CNOR,Wind,35
+"2013/09/24 17:00:00",CSUD,Hydro,162
+"2013/09/24 17:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 17:00:00",CSUD,"Photovoltaic Estimated",509
+"2013/09/24 17:00:00",CSUD,"Photovoltaic Measured",60
+"2013/09/24 17:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 17:00:00",CSUD,Thermal,3138
+"2013/09/24 17:00:00",CSUD,Wind,206
+"2013/09/24 17:00:00",NORD,Hydro,2713
+"2013/09/24 17:00:00",NORD,"Hydro (River)",688
+"2013/09/24 17:00:00",NORD,Other,0
+"2013/09/24 17:00:00",NORD,"Photovoltaic Estimated",1353
+"2013/09/24 17:00:00",NORD,"Photovoltaic Measured",54
+"2013/09/24 17:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 17:00:00",NORD,Thermal,12619
+"2013/09/24 17:00:00",NORD,Wind,51
+"2013/09/24 17:00:00",SARD,Hydro,4
+"2013/09/24 17:00:00",SARD,"Photovoltaic Estimated",145
+"2013/09/24 17:00:00",SARD,"Photovoltaic Measured",22
+"2013/09/24 17:00:00",SARD,"Pumps Consumption",-63
+"2013/09/24 17:00:00",SARD,Thermal,1001
+"2013/09/24 17:00:00",SARD,Wind,81
+"2013/09/24 17:00:00",SICI,Hydro,162
+"2013/09/24 17:00:00",SICI,"Photovoltaic Estimated",309
+"2013/09/24 17:00:00",SICI,"Photovoltaic Measured",11
+"2013/09/24 17:00:00",SICI,Thermal,1834
+"2013/09/24 17:00:00",SICI,Wind,128
+"2013/09/24 17:00:00",SUD,Geotermal,2
+"2013/09/24 17:00:00",SUD,Hydro,180
+"2013/09/24 17:00:00",SUD,"Hydro (River)",31
+"2013/09/24 17:00:00",SUD,"Photovoltaic Estimated",531
+"2013/09/24 17:00:00",SUD,"Photovoltaic Measured",31
+"2013/09/24 17:00:00",SUD,Thermal,5377
+"2013/09/24 17:00:00",SUD,Wind,548
+"2013/09/24 18:00:00",CNOR,Geotermal,606
+"2013/09/24 18:00:00",CNOR,Hydro,371
+"2013/09/24 18:00:00",CNOR,"Hydro (River)",36
+"2013/09/24 18:00:00",CNOR,"Photovoltaic Estimated",65
+"2013/09/24 18:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 18:00:00",CNOR,Thermal,1051
+"2013/09/24 18:00:00",CNOR,Wind,29
+"2013/09/24 18:00:00",CSUD,Hydro,188
+"2013/09/24 18:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 18:00:00",CSUD,"Photovoltaic Estimated",92
+"2013/09/24 18:00:00",CSUD,"Photovoltaic Measured",13
+"2013/09/24 18:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 18:00:00",CSUD,Thermal,3236
+"2013/09/24 18:00:00",CSUD,Wind,211
+"2013/09/24 18:00:00",NORD,Hydro,3463
+"2013/09/24 18:00:00",NORD,"Hydro (River)",722
+"2013/09/24 18:00:00",NORD,Other,0
+"2013/09/24 18:00:00",NORD,"Photovoltaic Estimated",267
+"2013/09/24 18:00:00",NORD,"Photovoltaic Measured",9
+"2013/09/24 18:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 18:00:00",NORD,Thermal,12690
+"2013/09/24 18:00:00",NORD,Wind,50
+"2013/09/24 18:00:00",SARD,Hydro,25
+"2013/09/24 18:00:00",SARD,"Photovoltaic Estimated",38
+"2013/09/24 18:00:00",SARD,"Photovoltaic Measured",6
+"2013/09/24 18:00:00",SARD,"Pumps Consumption",-163
+"2013/09/24 18:00:00",SARD,Thermal,993
+"2013/09/24 18:00:00",SARD,Wind,54
+"2013/09/24 18:00:00",SICI,Hydro,162
+"2013/09/24 18:00:00",SICI,"Photovoltaic Estimated",51
+"2013/09/24 18:00:00",SICI,"Photovoltaic Measured",2
+"2013/09/24 18:00:00",SICI,Thermal,2023
+"2013/09/24 18:00:00",SICI,Wind,113
+"2013/09/24 18:00:00",SUD,Geotermal,2
+"2013/09/24 18:00:00",SUD,Hydro,398
+"2013/09/24 18:00:00",SUD,"Hydro (River)",35
+"2013/09/24 18:00:00",SUD,"Photovoltaic Estimated",51
+"2013/09/24 18:00:00",SUD,"Photovoltaic Measured",2
+"2013/09/24 18:00:00",SUD,Thermal,5824
+"2013/09/24 18:00:00",SUD,Wind,666
+"2013/09/24 19:00:00",CNOR,Geotermal,606
+"2013/09/24 19:00:00",CNOR,Hydro,374
+"2013/09/24 19:00:00",CNOR,"Hydro (River)",36
+"2013/09/24 19:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 19:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 19:00:00",CNOR,Thermal,1131
+"2013/09/24 19:00:00",CNOR,Wind,23
+"2013/09/24 19:00:00",CSUD,Hydro,469
+"2013/09/24 19:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 19:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 19:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 19:00:00",CSUD,"Pumps Consumption",-1
+"2013/09/24 19:00:00",CSUD,Thermal,3521
+"2013/09/24 19:00:00",CSUD,Wind,241
+"2013/09/24 19:00:00",NORD,Hydro,4601
+"2013/09/24 19:00:00",NORD,"Hydro (River)",707
+"2013/09/24 19:00:00",NORD,Other,0
+"2013/09/24 19:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 19:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 19:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 19:00:00",NORD,Thermal,13079
+"2013/09/24 19:00:00",NORD,Wind,40
+"2013/09/24 19:00:00",SARD,Hydro,62
+"2013/09/24 19:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 19:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 19:00:00",SARD,"Pumps Consumption",-106
+"2013/09/24 19:00:00",SARD,Thermal,1034
+"2013/09/24 19:00:00",SARD,Wind,28
+"2013/09/24 19:00:00",SICI,Hydro,161
+"2013/09/24 19:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 19:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 19:00:00",SICI,Thermal,2412
+"2013/09/24 19:00:00",SICI,Wind,74
+"2013/09/24 19:00:00",SUD,Geotermal,2
+"2013/09/24 19:00:00",SUD,Hydro,590
+"2013/09/24 19:00:00",SUD,"Hydro (River)",34
+"2013/09/24 19:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 19:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 19:00:00",SUD,Thermal,6090
+"2013/09/24 19:00:00",SUD,Wind,769
+"2013/09/24 20:00:00",CNOR,Geotermal,606
+"2013/09/24 20:00:00",CNOR,Hydro,371
+"2013/09/24 20:00:00",CNOR,"Hydro (River)",36
+"2013/09/24 20:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 20:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 20:00:00",CNOR,Thermal,1090
+"2013/09/24 20:00:00",CNOR,Wind,19
+"2013/09/24 20:00:00",CSUD,Hydro,496
+"2013/09/24 20:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 20:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 20:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 20:00:00",CSUD,"Pumps Consumption",-1
+"2013/09/24 20:00:00",CSUD,Thermal,3240
+"2013/09/24 20:00:00",CSUD,Wind,258
+"2013/09/24 20:00:00",NORD,Hydro,4534
+"2013/09/24 20:00:00",NORD,"Hydro (River)",733
+"2013/09/24 20:00:00",NORD,Other,0
+"2013/09/24 20:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 20:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 20:00:00",NORD,"Pumps Consumption",-1
+"2013/09/24 20:00:00",NORD,Thermal,12863
+"2013/09/24 20:00:00",NORD,Wind,34
+"2013/09/24 20:00:00",SARD,Hydro,63
+"2013/09/24 20:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 20:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 20:00:00",SARD,"Pumps Consumption",-4
+"2013/09/24 20:00:00",SARD,Thermal,1029
+"2013/09/24 20:00:00",SARD,Wind,14
+"2013/09/24 20:00:00",SICI,Hydro,161
+"2013/09/24 20:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 20:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 20:00:00",SICI,Thermal,2403
+"2013/09/24 20:00:00",SICI,Wind,46
+"2013/09/24 20:00:00",SUD,Geotermal,2
+"2013/09/24 20:00:00",SUD,Hydro,573
+"2013/09/24 20:00:00",SUD,"Hydro (River)",33
+"2013/09/24 20:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 20:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 20:00:00",SUD,Thermal,5713
+"2013/09/24 20:00:00",SUD,Wind,738
+"2013/09/24 21:00:00",CNOR,Geotermal,605
+"2013/09/24 21:00:00",CNOR,Hydro,325
+"2013/09/24 21:00:00",CNOR,"Hydro (River)",33
+"2013/09/24 21:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 21:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 21:00:00",CNOR,Thermal,1034
+"2013/09/24 21:00:00",CNOR,Wind,16
+"2013/09/24 21:00:00",CSUD,Hydro,160
+"2013/09/24 21:00:00",CSUD,"Hydro (River)",9
+"2013/09/24 21:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 21:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 21:00:00",CSUD,"Pumps Consumption",-3
+"2013/09/24 21:00:00",CSUD,Thermal,3002
+"2013/09/24 21:00:00",CSUD,Wind,218
+"2013/09/24 21:00:00",NORD,Hydro,3298
+"2013/09/24 21:00:00",NORD,"Hydro (River)",702
+"2013/09/24 21:00:00",NORD,Other,0
+"2013/09/24 21:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 21:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 21:00:00",NORD,"Pumps Consumption",-146
+"2013/09/24 21:00:00",NORD,Thermal,12326
+"2013/09/24 21:00:00",NORD,Wind,31
+"2013/09/24 21:00:00",SARD,Hydro,45
+"2013/09/24 21:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 21:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 21:00:00",SARD,"Pumps Consumption",-93
+"2013/09/24 21:00:00",SARD,Thermal,1029
+"2013/09/24 21:00:00",SARD,Wind,9
+"2013/09/24 21:00:00",SICI,Hydro,161
+"2013/09/24 21:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 21:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 21:00:00",SICI,Thermal,2215
+"2013/09/24 21:00:00",SICI,Wind,29
+"2013/09/24 21:00:00",SUD,Geotermal,2
+"2013/09/24 21:00:00",SUD,Hydro,441
+"2013/09/24 21:00:00",SUD,"Hydro (River)",32
+"2013/09/24 21:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 21:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 21:00:00",SUD,Thermal,5564
+"2013/09/24 21:00:00",SUD,Wind,684
+"2013/09/24 22:00:00",CNOR,Geotermal,605
+"2013/09/24 22:00:00",CNOR,Hydro,268
+"2013/09/24 22:00:00",CNOR,"Hydro (River)",29
+"2013/09/24 22:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 22:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 22:00:00",CNOR,Thermal,812
+"2013/09/24 22:00:00",CNOR,Wind,15
+"2013/09/24 22:00:00",CSUD,Hydro,150
+"2013/09/24 22:00:00",CSUD,"Hydro (River)",8
+"2013/09/24 22:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 22:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 22:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 22:00:00",CSUD,Thermal,2615
+"2013/09/24 22:00:00",CSUD,Wind,184
+"2013/09/24 22:00:00",NORD,Hydro,2365
+"2013/09/24 22:00:00",NORD,"Hydro (River)",592
+"2013/09/24 22:00:00",NORD,Other,0
+"2013/09/24 22:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 22:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 22:00:00",NORD,"Pumps Consumption",-93
+"2013/09/24 22:00:00",NORD,Thermal,10868
+"2013/09/24 22:00:00",NORD,Wind,28
+"2013/09/24 22:00:00",SARD,Hydro,45
+"2013/09/24 22:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 22:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 22:00:00",SARD,"Pumps Consumption",-163
+"2013/09/24 22:00:00",SARD,Thermal,1035
+"2013/09/24 22:00:00",SARD,Wind,8
+"2013/09/24 22:00:00",SICI,Hydro,185
+"2013/09/24 22:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 22:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 22:00:00",SICI,Thermal,2087
+"2013/09/24 22:00:00",SICI,Wind,20
+"2013/09/24 22:00:00",SUD,Geotermal,2
+"2013/09/24 22:00:00",SUD,Hydro,327
+"2013/09/24 22:00:00",SUD,"Hydro (River)",28
+"2013/09/24 22:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 22:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 22:00:00",SUD,Thermal,5511
+"2013/09/24 22:00:00",SUD,Wind,695
+"2013/09/24 23:00:00",CNOR,Geotermal,606
+"2013/09/24 23:00:00",CNOR,Hydro,204
+"2013/09/24 23:00:00",CNOR,"Hydro (River)",28
+"2013/09/24 23:00:00",CNOR,"Photovoltaic Estimated",0
+"2013/09/24 23:00:00",CNOR,"Photovoltaic Measured",0
+"2013/09/24 23:00:00",CNOR,Thermal,747
+"2013/09/24 23:00:00",CNOR,Wind,14
+"2013/09/24 23:00:00",CSUD,Hydro,130
+"2013/09/24 23:00:00",CSUD,"Hydro (River)",8
+"2013/09/24 23:00:00",CSUD,"Photovoltaic Estimated",0
+"2013/09/24 23:00:00",CSUD,"Photovoltaic Measured",0
+"2013/09/24 23:00:00",CSUD,"Pumps Consumption",-2
+"2013/09/24 23:00:00",CSUD,Thermal,2513
+"2013/09/24 23:00:00",CSUD,Wind,190
+"2013/09/24 23:00:00",NORD,Hydro,1787
+"2013/09/24 23:00:00",NORD,"Hydro (River)",570
+"2013/09/24 23:00:00",NORD,Other,0
+"2013/09/24 23:00:00",NORD,"Photovoltaic Estimated",0
+"2013/09/24 23:00:00",NORD,"Photovoltaic Measured",0
+"2013/09/24 23:00:00",NORD,"Pumps Consumption",-2
+"2013/09/24 23:00:00",NORD,Thermal,9773
+"2013/09/24 23:00:00",NORD,Wind,22
+"2013/09/24 23:00:00",SARD,Hydro,26
+"2013/09/24 23:00:00",SARD,"Photovoltaic Estimated",0
+"2013/09/24 23:00:00",SARD,"Photovoltaic Measured",0
+"2013/09/24 23:00:00",SARD,"Pumps Consumption",-163
+"2013/09/24 23:00:00",SARD,Thermal,1006
+"2013/09/24 23:00:00",SARD,Wind,7
+"2013/09/24 23:00:00",SICI,Hydro,58
+"2013/09/24 23:00:00",SICI,"Photovoltaic Estimated",0
+"2013/09/24 23:00:00",SICI,"Photovoltaic Measured",0
+"2013/09/24 23:00:00",SICI,"Pumps Consumption",0
+"2013/09/24 23:00:00",SICI,Thermal,1977
+"2013/09/24 23:00:00",SICI,Wind,17
+"2013/09/24 23:00:00",SUD,Geotermal,2
+"2013/09/24 23:00:00",SUD,Hydro,43
+"2013/09/24 23:00:00",SUD,"Hydro (River)",30
+"2013/09/24 23:00:00",SUD,"Photovoltaic Estimated",0
+"2013/09/24 23:00:00",SUD,"Photovoltaic Measured",0
+"2013/09/24 23:00:00",SUD,Thermal,5364
+"2013/09/24 23:00:00",SUD,Wind,719

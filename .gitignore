@@ -1,0 +1,12 @@
+#Maven stuff
+target
+
+#Intellj 
+*.iml
+*.idea
+
+#Eclipse
+*.settings
+*.classpath
+*.project
+
